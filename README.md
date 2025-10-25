@@ -2,6 +2,8 @@
 
 Modern writing lab for CELPIP Task 1 and Task 2 preparation. Switch between realistic prompts, draft with live guidance, and receive AI-powered scoring that mirrors examiner feedback.
 
+![Practice workspace preview](public/screenshots/practice-workspace.png)
+
 ---
 
 ## Why You'll Love It
